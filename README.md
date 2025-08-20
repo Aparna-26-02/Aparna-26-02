@@ -142,17 +142,6 @@ I am a dedicated **MSc Data Science graduate student at Christ University, Banga
 
 ---
 
-## 📈 Professional Development Focus
-
-python
-current_learning_path = {
-    "Advanced_AI": ["Large Language Models", "MLOps", "AutoML"],
-    "Cloud_Architecture": ["AWS SageMaker", "Kubernetes", "Serverless ML"],
-    "Industry_Applications": ["FinTech Analytics", "Healthcare AI", "E-commerce Intelligence"],
-    "Research_Areas": ["Explainable AI", "Federated Learning", "Edge Computing"]
-}
-
----
 
 ## 🤝 Professional Network & Collaboration
 
