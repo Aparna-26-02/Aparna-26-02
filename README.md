@@ -1,7 +1,7 @@
 # Hello, I'm Aparna Mathew 👋
 
 <div align="center">
-  <h2>🎓 MSc Data Science | 📊 Data Scientist | 🤖 AI/ML Engineer</h2>
+  <h2>🎓 MSc Data Science | 📊Aspiring  Data Scientist | 🤖 Aspiring AI/ML Engineer</h2>
   <p><strong><em>Transforming Complex Data into Strategic Business Intelligence</em></strong></p>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Aparna-26-02&color=0e75b6&style=flat)
