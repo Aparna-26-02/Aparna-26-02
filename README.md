@@ -5,7 +5,7 @@
   <p><strong><em>Transforming Complex Data into Strategic Business Intelligence</em></strong></p>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Aparna-26-02&color=0e75b6&style=flat)
-  [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aparna-mathew)
+  [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)
 </div>
 
 ---
@@ -159,7 +159,7 @@ current_learning_path = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aparna-mathew)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 [![Professional Email](https://img.shields.io/badge/Professional_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aparnamathew1734@gmail.com)
 [![GitHub Portfolio](https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aparna-26-02)
 [![Research Gate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](#)
