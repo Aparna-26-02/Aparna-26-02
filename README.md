@@ -82,19 +82,13 @@ I am a dedicated **MSc Data Science graduate student at Christ University, Banga
 - **Impact:** Streamlined event management for 500+ participants
 - [🔗 View Project](https://github.com/Aparna-26-02/Cricket-Event-Website)
 
-### 🏥 **Healthcare Analytics Intelligence System**
-**End-to-End Medical Data Pipeline**
-- **Overview:** Scalable healthcare data processing system with predictive analytics capabilities
-- **Key Features:** ETL pipelines, statistical analysis, interactive dashboards, cloud deployment
-- **Tech Stack:** `Python` `SQL Server` `AWS RDS` `Power BI` `Pandas` `NumPy`
-- **Impact:** Improved clinical decision-making through data-driven insights
-- *🔒 Proprietary - Available upon request*
+
 
 ### 🤖 **Intelligent RAG Chatbot Platform**
 **Advanced AI Conversational System**
 - **Overview:** Retrieval-Augmented Generation system with document understanding capabilities
 - **Key Features:** Context-aware responses, document ingestion, multi-format support
-- **Tech Stack:** `LangChain` `LlamaIndex` `OpenAI API` `Flask` `Vector Databases`
+- **Tech Stack:** `LangChain` `LlamaIndex`  `Flask` `Vector Databases`
 - **Impact:** Enhanced information retrieval with 95% accuracy improvement
 - *🔒 Proprietary - Available upon request*
 
@@ -102,7 +96,7 @@ I am a dedicated **MSc Data Science graduate student at Christ University, Banga
 **Professional Note Management System**
 - **Overview:** Enterprise-grade secure note-taking application with advanced encryption
 - **Key Features:** Multi-user authentication, encrypted storage, collaborative editing
-- **Tech Stack:** `Flask` `SQLAlchemy` `bcrypt` `HTML/CSS` `JavaScript`
+- **Tech Stack:** `Flask` `SQLAlchemy` `HTML/CSS` `JavaScript`
 - **Impact:** Secure document management for sensitive information
 - *🚀 In Development*
 
