@@ -72,35 +72,12 @@ I am a dedicated **MSc Data Science graduate student at Christ University, Banga
 
 ---
 
-## 🚀 Featured Portfolio Projects
-
-### 🏏 **Cricket Event Management System**
-**Enterprise Sports Management Platform**
-- **Overview:** Comprehensive web application for cricket event organization with real-time data management
-- **Key Features:** User authentication, event scheduling, team management, live score tracking
-- **Tech Stack:** `Flask` `SQL Server` `HTML/CSS` `JavaScript` `Bootstrap`
-- **Impact:** Streamlined event management for 500+ participants
-- [🔗 View Project](https://github.com/Aparna-26-02/Cricket-Event-Website)
+#
 
 
 
-### 🤖 **Intelligent RAG Chatbot Platform**
-**Advanced AI Conversational System**
-- **Overview:** Retrieval-Augmented Generation system with document understanding capabilities
-- **Key Features:** Context-aware responses, document ingestion, multi-format support
-- **Tech Stack:** `LangChain` `LlamaIndex`  `Flask` `Vector Databases`
-- **Impact:** Enhanced information retrieval with 95% accuracy improvement
-- *🔒 Proprietary - Available upon request*
 
-### 🔐 **SecuraNote - Secure Documentation Platform**
-**Professional Note Management System**
-- **Overview:** Enterprise-grade secure note-taking application with advanced encryption
-- **Key Features:** Multi-user authentication, encrypted storage, collaborative editing
-- **Tech Stack:** `Flask` `SQLAlchemy` `HTML/CSS` `JavaScript`
-- **Impact:** Secure document management for sensitive information
-- *🚀 In Development*
 
----
 
 ## 📊 GitHub Performance Metrics
 
